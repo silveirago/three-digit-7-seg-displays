@@ -71,5 +71,5 @@ This project is open-source and licensed under the MIT License.
 
 ---
 
- by Gustavo Silveira - aka the Nerd Musician
- Learn how to build your MIDI controllers: https://go.musiconerd.com/nerd-musician-pro
+ - by Gustavo Silveira - aka the Nerd Musician
+ - Learn how to build your MIDI controllers: https://go.musiconerd.com/nerd-musician-pro
